@@ -4,3 +4,5 @@
 ### 5 letras
 ![image](https://github.com/user-attachments/assets/b59df0f2-008c-4158-b372-648ef067c283)
 
+#### // © 2025 Nombre del Autor. Todos los derechos reservados.
+
