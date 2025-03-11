@@ -56,7 +56,7 @@ namespace CrucigramaWinForms
 
             lblPistas = new Label
             {
-                Text = "Pistas:\n1. Horizontal: Animal que ladra (4 letras)\n2. Vertical: Ave nocturna (3 letras)",
+                Text = "Pistas:\n1. Horizontal: Animal que ladra (5 letras)\n2. Vertical: Ave nocturna (3 letras)",
                 Location = new Point(20, 450),
                 AutoSize = true
             };
